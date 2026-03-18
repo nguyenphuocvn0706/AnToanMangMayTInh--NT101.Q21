@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab01_Code_Vigenere cipher_no key/Lab01_Code_Vigenere cipher_no key.vcxproj" Id="721f43d2-aec7-4256-b399-08d7ebd03ebf" />
+</Solution>
